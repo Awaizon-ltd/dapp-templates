@@ -84,4 +84,4 @@ On-chain governance powered by an OpenZeppelin Governor contract.
 - [Docs](https://awarizon.com/docs)
 - [API key dashboard](https://awarizon.com/dashboard/api-keys)
 - [WalletConnect project ID](https://cloud.walletconnect.com)
-- [Boilerplates repo](https://github.com/awarizon/awarizon-boilerplates)
+- [Boilerplates repo](https://github.com/Awaizon-ltd/boilerplates)
